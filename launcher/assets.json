@@ -1,0 +1,9 @@
+{
+  "images": [
+    "https://TON-PROJET.pages.dev/launcher/images/1.jpg?v=1",
+    "https://TON-PROJET.pages.dev/launcher/images/2.jpg?v=1",
+    "https://TON-PROJET.pages.dev/launcher/images/3.jpg?v=1"
+  ],
+  "music": "https://TON-PROJET.pages.dev/launcher/music/theme.mp3?v=1",
+  "intervalMs": 9000
+}
